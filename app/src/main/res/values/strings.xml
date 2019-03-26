@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MUSIC PLAYER</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="cnfpassword">Confirm Password</string>
+    <string name="login">Login</string>
+    <string name="signup">Signup</string>
+    <string name="register">Register</string>
+    <string name="already_registered">Already Registered</string>
+    <string name="not_registered">Not Registered?</string>
+
+</resources>
